@@ -1,3 +1,31 @@
+1. Go to https://developer.accuweather.com/
+
+2. Login (If you don't have a user - creat one)
+
+3. Go to MY APPS
+
+4. Click on "Add a new App"
+
+5. Click on your new App and kopy your *API Key*
+
+6. On the project create a file called .env in the root of your project's directory
+
+- project_folder
+  - node_modules
+  - public
+  - src
+  - .env         <-- create it here
+  - .gitignore
+  - package-lock.json
+  - package.json
+
+7. Inside the .env file, prepend REACT_APP_WEATHER_API_KEY to your *API key*.
+
+// .env
+REACT_APP_WEATHER_API_KEY="*API key*"
+
+----------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
