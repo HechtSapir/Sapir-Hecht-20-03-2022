@@ -1,5 +1,5 @@
 
-const key = "A0DhPUu32H8rqAAuxhm0HBmnePD7jZcM";//process.env.REACT_APP_WEATHER_API_KEY;
+const key = process.env.REACT_APP_WEATHER_API_KEY;
 
 const getWeather = async (id) => {
     const base = "http://dataservice.accuweather.com/currentconditions/v1/";
