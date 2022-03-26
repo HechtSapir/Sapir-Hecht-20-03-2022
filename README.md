@@ -1,3 +1,5 @@
+# Getting an API Key from https://developer.accuweather.com/ and set it in the project
+
 1. Go to https://developer.accuweather.com/
 
 2. Login (If you don't have a user - creat one)
@@ -8,7 +10,9 @@
 
 5. Click on your new App and kopy your *API Key*
 
-6. On the project create a file called .env in the root of your project's directory
+6. Open the project 
+
+7. In the project: create a file called .env in the root of your project's directory
 
 - project_folder
   - node_modules
@@ -19,7 +23,7 @@
   - package-lock.json
   - package.json
 
-7. Inside the .env file, prepend REACT_APP_WEATHER_API_KEY to your *API key*.
+8. Inside the .env file, prepend REACT_APP_WEATHER_API_KEY to your *API key* and assign it
 
 // .env
 REACT_APP_WEATHER_API_KEY="*API key*"
