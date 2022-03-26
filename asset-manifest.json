@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/herolo/static/css/main.28985c26.css",
+    "main.js": "/herolo/static/js/main.64911cbd.js",
+    "static/js/787.ef208ef7.chunk.js": "/herolo/static/js/787.ef208ef7.chunk.js",
+    "index.html": "/herolo/index.html",
+    "main.28985c26.css.map": "/herolo/static/css/main.28985c26.css.map",
+    "main.64911cbd.js.map": "/herolo/static/js/main.64911cbd.js.map",
+    "787.ef208ef7.chunk.js.map": "/herolo/static/js/787.ef208ef7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28985c26.css",
+    "static/js/main.64911cbd.js"
+  ]
+}
