@@ -12,7 +12,7 @@
 
 6. Open the project 
 
-7. In the project: create a file called .env in the root of your project's directory
+7. Create a file called .env in the root of your project's directory
 
 - project_folder
   - node_modules
